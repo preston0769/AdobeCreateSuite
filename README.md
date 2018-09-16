@@ -8,7 +8,7 @@
 
 ![Alt text](/Drawings/13-Sep-2018%20Calender.png?raw=true "13-Sep-2018 Calender")
 
-![Alt text](/Drawings/14-Sep-2018%20Bills.png?raw=true "14-Sep-2018 Bills")
+![Alt text](/Drawings/14-Sep-2018%20%20Bills.png?raw=true "14-Sep-2018 Bills")
 
 ![Alt text](/Drawings/15-Sep-2018%20Furniture.png?raw=true "15-Sep-2018 Furniture")
 
