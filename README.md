@@ -16,4 +16,4 @@
 
 ![Alt text](/Drawings/16-Sep-2018%20Filter2.png?raw=true "16-Sep-2018 Filter 2")
 
-![Alt text](/Drawings/17-Sep-2018%20hotel.png?raw=true "17-Sep-2018 Hotel Design")
+![Alt text](/Drawings/17-Sep-2018%20Hotel.png?raw=true "17-Sep-2018 Hotel Design")
