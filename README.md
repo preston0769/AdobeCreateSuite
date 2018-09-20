@@ -42,3 +42,7 @@
 ### Interior Meetup 
 ---
 ![Alt text](/Drawings/19-Sep-2018%20InteriorDesign.png?raw=true "19-Sep-2018 Interior Design")
+
+### Travel City Guide 
+---
+![Alt text](/Drawings/20-Sep-2018%20TravelGuide.png?raw=true "20-Sep-2018 Travel City Guide")
