@@ -46,3 +46,4 @@
 ### Travel City Guide 
 ---
 ![Alt text](/Drawings/20-Sep-2018%20TravelGuide.png?raw=true "20-Sep-2018 Travel City Guide")
+![Alt text](/Drawings/21-Sep-2018%20PaperList.png?raw=true "21-Sep-2018 Paper List")
