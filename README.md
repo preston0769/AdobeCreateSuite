@@ -1,6 +1,11 @@
 # UI practice and design 
 
 ### My Bank sample control(4 screens)
+![Alt text](/Drawings/24-Sep-2018%20TypeSelector.png?raw=true "24-Sep-2018 Type selector")
+![Alt text](/Drawings/24-Sep-2018%20TypeSelector2.png?raw=true "24-Sep-2018 Type selector")
+---
+
+### My Bank sample control(4 screens)
 ![Alt text](/Drawings/23-Sep-2018%20MyBank1.png?raw=true "23-Sep-2018 My Bank Login")
 ![Alt text](/Drawings/23-Sep-2018%20MyBank2.png?raw=true "23-Sep-2018 My Bank Nav")
 ![Alt text](/Drawings/23-Sep-2018%20MyBank3.png?raw=true "23-Sep-2018 My Bank Cards")
