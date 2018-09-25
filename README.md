@@ -1,8 +1,8 @@
 # UI practice and design 
 
 ### Profile (2 screens)
-![Alt text](/Drawings/24-Sep-2018%20Profile.png?raw=true "25-Sep-2018 Profile 1")
-![Alt text](/Drawings/24-Sep-2018%20Profile2.png?raw=true "25-Sep-2018 Profile 2")
+![Alt text](/Drawings/25-Sep-2018%20Profile.png?raw=true "25-Sep-2018 Profile 1")
+![Alt text](/Drawings/25-Sep-2018%20Profile2.png?raw=true "25-Sep-2018 Profile 2")
 ---
 
 ### My Bank sample control(2 screens)
