@@ -1,11 +1,16 @@
 # UI practice and design 
 
+### Travel Login & Sample check out
+![Alt text](/Drawings/26-Sep-2018%20TravelLogin.png?raw=true "26-Sep-2018 Travel login page")
+![Alt text](/Drawings/26-Sep-2018%20CheckOut.png?raw=true "26-Sep-2018 Sample check out")
+---
+
 ### Profile (2 screens)
 ![Alt text](/Drawings/25-Sep-2018%20Profile.png?raw=true "25-Sep-2018 Profile 1")
 ![Alt text](/Drawings/25-Sep-2018%20Profile2.png?raw=true "25-Sep-2018 Profile 2")
 ---
 
-### My Bank sample control(2 screens)
+### Simple type selector(2 screens)
 ![Alt text](/Drawings/24-Sep-2018%20TypeSelector.png?raw=true "24-Sep-2018 Type selector")
 ![Alt text](/Drawings/24-Sep-2018%20TypeSelector2.png?raw=true "24-Sep-2018 Type selector")
 ---
