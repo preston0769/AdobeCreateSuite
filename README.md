@@ -1,5 +1,10 @@
 # UI practice and design 
 
+### Sample food app 
+![Alt text](/Drawings/27-Sep-2018%20FoodList.png?raw=true "27-Sep-2018 FoodList")
+![Alt text](/Drawings/27-Sep-2018%20FoodDetail.png?raw=true "27-Sep-2018 Food Detail")
+---
+
 ### Travel Login & Sample check out
 ![Alt text](/Drawings/26-Sep-2018%20TravelLogin.png?raw=true "26-Sep-2018 Travel login page")
 ![Alt text](/Drawings/26-Sep-2018%20CheckOut.png?raw=true "26-Sep-2018 Sample check out")
