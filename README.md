@@ -1,6 +1,11 @@
 # UI practice and design 
 
 ### Sample food app 
+![Alt text](/Drawings/28-Sep-2018%20Restaurant.png?raw=true "28-Sep-2018 Restaurant")
+![Alt text](/Drawings/28-Sep-2018%20Order.png?raw=true "28-Sep-2018 Order")
+---
+
+### Sample food app 
 ![Alt text](/Drawings/27-Sep-2018%20FoodList.png?raw=true "27-Sep-2018 FoodList")
 ![Alt text](/Drawings/27-Sep-2018%20FoodDetail.png?raw=true "27-Sep-2018 Food Detail")
 ---
