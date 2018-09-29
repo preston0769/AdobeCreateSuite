@@ -1,5 +1,10 @@
 # UI practice and design 
 
+### Locatin Filter 
+![Alt text](/Drawings/29-Sep-2018%20Location.png?raw=true "29-Sep-2018 Location on map")
+![Alt text](/Drawings/29-Sep-2018%20LocationFilter.png?raw=true "29-Sep-2018 Location on map")
+---
+
 ### Sample food app 
 ![Alt text](/Drawings/28-Sep-2018%20Restaurant.png?raw=true "28-Sep-2018 Restaurant")
 ![Alt text](/Drawings/28-Sep-2018%20Order.png?raw=true "28-Sep-2018 Order")
