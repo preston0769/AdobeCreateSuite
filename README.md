@@ -1,5 +1,10 @@
 # UI practice and design 
 
+### Shopping App 
+![Alt text](/Drawings/30-Sep-2018%20ShoppingHome.png?raw=true "30-Sep-2018 Shopping App Home")
+![Alt text](/Drawings/30-Sep-2018%20Categories.png?raw=true "30-Sep-2018 Shopping Categories")
+---
+
 ### Locatin Filter 
 ![Alt text](/Drawings/29-Sep-2018%20Location.png?raw=true "29-Sep-2018 Location on map")
 ![Alt text](/Drawings/29-Sep-2018%20LocationFilter.png?raw=true "29-Sep-2018 Location on map")
