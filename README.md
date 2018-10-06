@@ -1,5 +1,10 @@
 # UI practice and design 
 
+### Travel social App 
+![Alt text](/Drawings/Sidebar%20Menu.png?raw=true "Travel social app sidebar")
+![Alt text](/Drawings/Follow%20friends.png?raw=true "Travel social app follow friends")
+---
+
 ### Shopping App 
 ![Alt text](/Drawings/30-Sep-2018%20ShoppingHome.png?raw=true "30-Sep-2018 Shopping App Home")
 ![Alt text](/Drawings/30-Sep-2018%20Categories.png?raw=true "30-Sep-2018 Shopping Categories")
